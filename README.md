@@ -5,4 +5,4 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 The dataset is used here is solely for educational purposes and non-commercial purposes.
 
 Using the sklearn linear model package, I was able to preprocess, clean, tune hyperparameters to come up with the best model, provided it is not the best score. You can use the same process for other dataset, of course bearing in mind that you may have to do some feature enginerring if necessary and some hyperparameter tuning as well.
-
+Link to datatset used can be found here : https://www.kaggle.com/c/nyc-taxi-trip-duration/data
